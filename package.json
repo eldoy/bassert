@@ -1,6 +1,6 @@
 {
   "name": "hevd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hevd beatiful assert errors",
   "main": "index.js",
   "scripts": {
