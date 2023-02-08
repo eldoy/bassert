@@ -1,0 +1,15 @@
+{
+  "name": "bassert",
+  "version": "0.1.0",
+  "description": "Bassert beatiful assert errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test/bassert.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/bassert"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "MIT"
+}
