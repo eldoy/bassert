@@ -1,14 +1,14 @@
 {
-  "name": "bassert",
+  "name": "hevd",
   "version": "0.1.0",
-  "description": "Bassert beatiful assert errors",
+  "description": "Hevd beatiful assert errors",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon test/bassert.test.js"
+    "test": "nodemon test/hevd.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eldoy/bassert"
+    "url": "https://github.com/eldoy/hevd"
   },
   "author": "Vidar Eldøy <vidar@eldoy.com>",
   "license": "MIT"
