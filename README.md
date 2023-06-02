@@ -1,6 +1,6 @@
 # Hevd
 
-Hevd beatiful assert errors.
+Hevd beautiful assert errors.
 
 Use it instead of assert for writing tests or wherever you need to actually read the assert error messages.
 
